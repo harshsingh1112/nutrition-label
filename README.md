@@ -25,5 +25,19 @@ The final output looks like a nutrition label commonly seen on food packaging, w
 1. **index.html**: Contains the structure and content of the nutrition label.
 2. **styles.css**: Contains all the styling and layout configurations for the page.
 
-## Project Structure
+
+## Installation
+
+To view this project locally:
+ Clone the repository to your local machine:
+   git clone https://github.com/harshsingh1112/nutrition-label.git
+
+
+## Preview
+<img width="243" alt="Screenshot 2024-12-21 at 1 32 24 AM" src="https://github.com/user-attachments/assets/c48e04e8-e8d5-48c5-bdc8-3c48c9be97ef" />
+
+
+## Contributions
+Feel free to fork this project, submit issues, or contribute enhancements.
+   
 
