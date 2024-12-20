@@ -30,6 +30,7 @@ The final output looks like a nutrition label commonly seen on food packaging, w
 
 To view this project locally:
  Clone the repository to your local machine:
+   
    git clone https://github.com/harshsingh1112/nutrition-label.git
 
 
